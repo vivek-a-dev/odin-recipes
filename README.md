@@ -1,2 +1,2 @@
-# odin-recipes
-**This is my project file for odin-project's first project odin-recipes and I'll make sure my solutions are readable.**
+# odin-recipes 
+**This is the page where you search only a few recipes that's it.**
